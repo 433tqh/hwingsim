@@ -360,6 +360,16 @@ window.PILOTS = [
         points: 12,
         upgrades: [],
     },
+	{
+        name: "The Custom Pilot Test 1",
+	done:true,
+	pilotid:43313,
+        unit: "TIE Fighter",
+        faction:Unit.EMPIRE,
+        skill: 2,
+        points: 13,
+        upgrades: [],
+    },
     {
         name: "Obsidian Squadron Pilot",
 	done:true,

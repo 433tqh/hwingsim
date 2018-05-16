@@ -596,7 +596,7 @@
 	"img":["shuttle"],
 	"weapon_type":"Laser",
 	"islarge":true,
-	"fire": 3,
+	"fire": 5,
 	"evade": 1,
 	"hull": 5,
 	"shield": 5,

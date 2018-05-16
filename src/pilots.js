@@ -351,13 +351,13 @@ window.PILOTS = [
         upgrades: [Unit.TURRET,Unit.TORPEDO,Unit.TORPEDO,Unit.ASTROMECH],
     },
     {
-        name: "Academy Pilot - 1",
+        name: "Academy Pilot",
 	done:true,
 	pilotid:13,
         unit: "TIE Fighter",
         faction:Unit.EMPIRE,
-        skill: 1,
-        points: 12,
+        skill: 5,
+        points: 10,
         upgrades: [],
     },
 	{
